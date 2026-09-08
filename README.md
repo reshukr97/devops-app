@@ -396,28 +396,6 @@ After updating the application, the homepage displays the technologies demonstra
 
 ---
 
-## 📸 Screenshots
-
-Screenshots can be stored inside:
-
-```text
-screenshots/
-```
-
-Recommended screenshots:
-
-### Application
-
-### Jenkins Pipeline
-
-### Kubernetes
-
-### Docker Hub
-
-> Add these screenshots after creating the `screenshots` folder in the repository.
-
----
-
 ## 🚀 Deployment Workflow
 
 ### 1. Developer changes the application
